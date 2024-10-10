@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728471046 source:d:\kuliah\semester 3\tugas struktur data\03_abstract_data_type\guided3\soal2\main.cpp
+	<iostream>
+	<pelajaran.h>
+
+1728471208 d:\kuliah\semester 3\tugas struktur data\03_abstract_data_type\guided3\soal2\include\pelajaran.h
+	<string>
+
+1728469855 source:d:\kuliah\semester 3\tugas struktur data\03_abstract_data_type\guided3\soal2\src\pelajaran.cpp
+	<iostream>
+	"pelajaran.h"
+
